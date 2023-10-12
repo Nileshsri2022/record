@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+*{
+  margin: 0;
+
+}
+.header{
+  background-color: #273c75;
+  color:#fbc531;
+  font-size: 23px;
+  width: 100%;
+  font-weight: bold;
+ 
+}
+.form{
+  margin-top: 25px;
+}
+
+.data{
+margin-top: 14px;
+width: 90%;
+font-size: 15px;
+display: flex;
+flex-direction: column;
+font-style: oblique;
+align-items: center;
+
+
+}
+.show_data{
+ 
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 90vw;
+background-color: white;
+padding: 10px 9px 10px 9px;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
